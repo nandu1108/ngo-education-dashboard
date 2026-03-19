@@ -1,0 +1,6 @@
+1. Open Power BI
+2. Load processed_data.csv
+3. Create visuals:
+   - Attendance by Center
+   - Score distribution
+   - Performance category pie chart
